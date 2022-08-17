@@ -1,3 +1,9 @@
+// 事前に RictyDiminished をフォントとしてインストールして
+// ツール -> フォント作成から RictyDiminished-Bold でサイズを32と64に指定したフォントを作成してください
+// RictyDiminished-Bold-32.vlw
+// RictyDiminished-Bold-64.vlw
+// を生成
+
 Canvas canvas;
 Button save;
 Button reset;
