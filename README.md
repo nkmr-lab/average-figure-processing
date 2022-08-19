@@ -5,7 +5,7 @@ Processingが入っていれば動くはず。
 自由研究とかで使っても面白いかもしれません。
 
 - handwritingCollector が手書きを収集するプログラム
- - Ricty Diminishedというフォントを入れてフォントを生成すると日本語が使えるようになります
+Ricty Diminishedというフォントを入れてフォントを生成すると日本語が使えるようになります
 
 - strokeVisualizer_by_DragDrop はファイルのドラッグ＆ドロップで平均を生成できる
 - strokeVisualizer_BatchProcess は正規表現でパターンを作って平均を生成できる
